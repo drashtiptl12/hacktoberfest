@@ -32,8 +32,8 @@ textarea{
 
 button{
     flex-grow: 1;
-    font-weight:  bold;
-    width: 125px;
+    font-weight:  italicbold;
+    width: 130px;
     margin: 25px; 
     border:grey;
     border-radius: 30px;
