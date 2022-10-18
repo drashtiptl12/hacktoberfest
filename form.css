@@ -1,14 +1,14 @@
 label{
     color: rgb(13, 13, 13);
     font-weight:  italicbold;
-    padding-bottom: 6px;
+    padding-bottom: 8px;
     font-size: 18px;
     padding-top: 12px;
     display: inline-block;
 }
 
 form{
-    background-color: rgb(164, 159, 159);
+    background-color: grey;
     width: 450px;
     border-radius: 30px;
     height: 300px;
