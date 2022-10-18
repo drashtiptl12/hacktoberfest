@@ -21,7 +21,7 @@ form{
 input,textarea{
     box-sizing: border-box;
     width: 400px;
-    height: 32px;
+    height: 46px;
     padding-left: 6px;
     font-family: Arial, Helvetica, sans-serif;
 }
