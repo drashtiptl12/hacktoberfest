@@ -1,5 +1,5 @@
 label{
-    color: rgb(13, 13, 13);
+    color: rgb(15, 12, 13);
     font-weight:  italicbold;
     padding-bottom: 8px;
 
@@ -55,7 +55,7 @@ button#send{
 
 button#reset{
     background-color: rgb(54, 207, 253);
-    color: black;
+    color: darkblue;
 }
 
 form h2{
